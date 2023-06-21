@@ -66,6 +66,8 @@ packages:
 #
 - pip:
   - simpy
+  - pandas
+  - wget
 channels: []
 
 #
